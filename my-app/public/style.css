@@ -15,15 +15,9 @@ header figure{
 header img{
     width: 100%;
 }
-
 body{
     background-repeat: no-repeat;
     background-color:blueviolet;
-}
-main{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 .Catalogo{
     width: 30%;
