@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+header{
+    width: 15%;
+}
+header figure{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    color: salmon;
+}
+header img{
+    width: 100%;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-color:blueviolet;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Catalogo{
+    width: 30%;
+    text-align: center;
+
+}
+.Catalogo figure img{
+    width: 80%;
+}
+div{
+    align-items: center;
+}
+img{
+    padding: 1em;
+    
+}
+div p{
+    width: 30em;
+    text-align: justify;
+    font-size: 0.9em;
+    display: block;
+    padding-bottom: 10em;
+    padding-right: 1em;
+}
+main div img{
+    width: 25%;
+}
+.Cartelera{
+ display: flex;
+}
+main div iframe{
+ padding-right: 1em;
+}
+.Titulo{
+    padding-left: 0.5em;
+}

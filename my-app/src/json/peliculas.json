@@ -1,0 +1,58 @@
+[
+    {
+        "titulopeli":"Karakai Jouzu no Takagi-san Movie",
+        "img": "../Imagenes/275977441_5460169887350264_7040066023385923081_n.jpg",
+        "titulo": "Karakai Jouzu no Takagi-san Movie",
+        "duracion": "1h 12min",
+        "actores": "Rie Takahashi y Yūki Kaji",
+        "clasificacion": "9/10",
+        "descripcion": "Se ambienta en el verano del segundo año de secundaria. En él Takagi y Nishikata vivirán una experiencia única en sus vidas.",
+        "fechaestreno": "23/11/2022",
+        "link": "https://www.youtube.com/embed/XVlptZSCm3c"
+    },
+    {
+        "titulopeli":"Dragon Ball Super Super Hero",
+        "img": "/Imagenes/A.png",
+        "titulo": "Dragon Ball Super Super Hero",
+        "duracion": "1h 40min",
+        "actores": "Masako Nozawa y Toshio Furukawa",
+        "clasificacion": "9/10",
+        "descripcion": "La malvada organización Red Ribbon Army se reforma con nuevos y más poderosos androides, Gamma 1 y Gamma 2 para buscar venganza.",
+        "fechaestreno": "18/08/2022",
+        "link": "https://www.youtube.com/embed/r9xYwPra_Hs"
+    },
+    {
+        "titulopeli":"Koe no Katachi",
+        "img": "/Imagenes/koe-no-katachi-lyrics.jpg",
+        "titulo": "Koe no Katachi",
+        "duracion": "2h 10min",
+        "actores": "Hayami Saori y Irino Miyu",
+        "clasificacion": "9/10",
+        "descripcion": "Shôko Nishimiya, una estudiante de primaria sorda, empieza a sentir el bullying de sus  nuevos compañeros cuando se cambia de colegio. El peor de todos es Ishida Shôya, quien termina por    forzar que Nishimiya se cambie de escuela. Años después, Ishida buscará la redención de sus malas acciones.",
+        "fechaestreno": "12/12/2022",
+        "link": "https://www.youtube.com/embed/nfK6UgLra7g"
+    },
+    {
+        "titulopeli":"Kimi no Na wa",
+        "img": "/Imagenes/Your_Name-845448662-large.jpg",
+        "titulo": "Kimi no Na wa",
+        "duracion": "1h 52min",
+        "actores": "Kamishiraishi Mone y Kamiki Ryunosuke",
+        "clasificacion": "",
+        "descripcion": "Mitsuha es una adolescente que detesta su vida rural en el campo. Por otro lado, Taki es un chico que vive en Tokio y sueña con ser un artista o un arquitecto. Los destinos de estos jóvenes se entrelazan la noche en que dos estrellas caen del cielo, y comienzan a intercambiar sus cuerpos de la noche a la mañana. Con el pasar del tiempo, desarrollan maneras de comunicarse entre ellos y un creciente anhelo de conocerse en persona.",
+        "fechaestreno": "10/11/2022",
+        "link": "https://www.youtube.com/embed/xU47nhruN-Q"
+    },
+    {
+        "titulopeli":"Kimetsu no Yaiba Mugen Ressha Hen",
+        "img": "/Imagenes/kimetsu_no_yaiba_mugen_ressha_hen-909654449-large.jpg",
+        "titulo": "Kimetsu no Yaiba Mugen Ressha Hen",
+        "duracion": "1h 57min",
+        "actores": "Hanae Natsuki, Shimono Hiro, Kitou Akari, Matsuoka Yoshitsugu, y Hino Satoshi",
+        "clasificacion": "",
+        "descripcion": "Tanjiro Kamado y sus amigos acompañan a Kyojuruo Rengoku, el Pilar del Fuego, para investigar una misteriosa serie de desapariciones que ocurren dentro de un tren aparentemente infinitamente largo. Poco saben que Enmu, la última de las Lunas Inferiores de los Doce Kizuki, también está a bordo y les ha preparado una trampa.",
+        "fechaestreno": "10/9/2022",
+        "link": "https://www.youtube.com/embed/bFwdl2PDAFM"
+    }
+    
+]
